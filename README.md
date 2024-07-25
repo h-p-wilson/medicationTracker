@@ -10,7 +10,7 @@ An application created with Flet to record and track your daily medication.
 - Save client side - Medication list
 
 # Wire Frames 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/39760fce-fbc9-4f8c-b5b2-a2aed60db907)
+![Untitled Diagram drawio(1)](https://github.com/user-attachments/assets/2350abb8-25f8-4779-abb5-55b80d4c9a91)
 
 
 # How to run

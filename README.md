@@ -16,5 +16,5 @@ An application created with Flet to record and track your daily medication.
 # How to run
 - Install all requirements from requirements.txt
 - To test on desktop run main
-- To test using Flet development application, run flet run --ios and scan generated QR code with phone camera
+- To test using Flet development application, navigate into src, run flet run --ios and scan generated QR code with phone camera
 
